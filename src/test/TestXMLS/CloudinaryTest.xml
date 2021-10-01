@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="CloudinaryTest">
+    <test name="CloudinaryTest">
+        <classes>
+            <class name="CloudinaryTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>
